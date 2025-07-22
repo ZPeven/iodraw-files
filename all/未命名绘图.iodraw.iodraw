@@ -34,12 +34,12 @@
             <mxPoint x="640" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="200" />
-              <mxPoint x="720" y="200" />
+              <mxPoint x="880" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TMKFH4eG5XiMWVleLg8P-15" value="管理员模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="840" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
