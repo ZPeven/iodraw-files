@@ -66,7 +66,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TMKFH4eG5XiMWVleLg8P-22" value="学生修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="30" height="160" as="geometry" />
+          <mxGeometry x="40" y="360" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-23" value="学生选课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-24" value="学生修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="30" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
