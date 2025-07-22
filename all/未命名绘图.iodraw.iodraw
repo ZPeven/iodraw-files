@@ -51,9 +51,6 @@
         <mxCell id="TMKFH4eG5XiMWVleLg8P-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TMKFH4eG5XiMWVleLg8P-14" value="教师管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
