@@ -104,8 +104,11 @@
         <mxCell id="TMKFH4eG5XiMWVleLg8P-35" value="专业信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="360" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TMKFH4eG5XiMWVleLg8P-36" value="学生修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="500" width="30" height="160" as="geometry" />
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-36" value="管理员个人信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-37" value="学生修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="30" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
