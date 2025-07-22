@@ -89,8 +89,8 @@
         <mxCell id="TMKFH4eG5XiMWVleLg8P-30" value="学生取消选课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TMKFH4eG5XiMWVleLg8P-31" value="学生修改个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="30" height="160" as="geometry" />
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-31" value="超选控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="30" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
