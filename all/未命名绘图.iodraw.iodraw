@@ -28,13 +28,20 @@
         <mxCell id="TMKFH4eG5XiMWVleLg8P-10" value="软件测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TMKFH4eG5XiMWVleLg8P-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TMKFH4eG5XiMWVleLg8P-6">
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TMKFH4eG5XiMWVleLg8P-6" target="TMKFH4eG5XiMWVleLg8P-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="250" as="sourcePoint" />
             <mxPoint x="640" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="200" />
+              <mxPoint x="640" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMKFH4eG5XiMWVleLg8P-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
