@@ -33,8 +33,8 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-38" value="进入选课信息界面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="84.5" y="120" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-40" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="215" width="120" height="60" as="geometry" />
+        <mxCell id="KwafMszTG7OVBNIyP3LY-40" value="显示当前学生所选课程列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="161.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
