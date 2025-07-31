@@ -7,11 +7,6 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="131" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="KwafMszTG7OVBNIyP3LY-1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="146" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-3" target="KwafMszTG7OVBNIyP3LY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -35,6 +30,12 @@
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="131" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="30" as="sourcePoint" />
+            <mxPoint x="180" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
