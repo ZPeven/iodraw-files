@@ -39,7 +39,7 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-40" value="显示当前学生所选课程列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="57.25" y="180" width="171.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-42" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-42" value="取消选课" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="84.5" y="240" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
