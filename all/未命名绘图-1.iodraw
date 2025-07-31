@@ -31,7 +31,10 @@
           <mxGeometry x="62" y="180" width="172" height="33" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-8" value="将数据保存至数据库，返回页面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="63" y="240" width="170" height="30" as="geometry" />
+          <mxGeometry x="49.5" y="240" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="131" y="290" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
