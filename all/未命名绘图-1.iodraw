@@ -13,7 +13,7 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-3" value="管理员登入系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="139" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-4" value="进入“课程管理模块”，显示所有公告列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-4" value="进入“课程管理模块”，显示所有课程列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="199" width="246" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
