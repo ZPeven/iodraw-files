@@ -22,8 +22,8 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-6" target="KwafMszTG7OVBNIyP3LY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-6" value="用户修改信息并提交" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="180" width="172" height="33" as="geometry" />
+        <mxCell id="KwafMszTG7OVBNIyP3LY-6" value="管理员对课程进行增/删/&lt;span style=&quot;background-color: initial;&quot;&gt;改操作并提交&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="194" height="33" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-8" value="将数据保存至数据库，返回页面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="49.5" y="240" width="197" height="30" as="geometry" />
