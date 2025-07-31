@@ -19,6 +19,12 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-4" value="进入“课程管理模块”，查看所有课程列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="120" width="218" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="207" y="215" as="sourcePoint" />
+            <mxPoint x="207" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-6" value="管理员对课程进行增/删/&lt;span style=&quot;background-color: initial;&quot;&gt;改操作并提交&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="180" width="209" height="33" as="geometry" />
         </mxCell>
