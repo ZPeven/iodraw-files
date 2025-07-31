@@ -24,8 +24,14 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-4" value="系统显示当前用户个人信息界面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="120" width="218" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-6" target="KwafMszTG7OVBNIyP3LY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-6" value="用户修改信息并提交" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="180" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
