@@ -29,7 +29,7 @@
           <mxGeometry x="102.5" y="180" width="209" height="33" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="30" height="30" as="geometry" />
+          <mxGeometry x="192" y="440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -39,24 +39,24 @@
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="214.82999999999998" y="510" as="sourcePoint" />
-            <mxPoint x="214.82999999999998" y="540" as="targetPoint" />
+            <mxPoint x="206.82999999999998" y="410" as="sourcePoint" />
+            <mxPoint x="206.82999999999998" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-15" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="107" y="259" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-20" value="新增课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="319" width="120" height="30" as="geometry" />
+          <mxGeometry x="10" y="321" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-21" value="编辑课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="319" width="120" height="30" as="geometry" />
+          <mxGeometry x="147" y="321" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-22" value="删除课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="319" width="120" height="30" as="geometry" />
+          <mxGeometry x="290" y="321" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-23" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="107" y="360" width="200" height="10" as="geometry" />
+          <mxGeometry x="107" y="400" width="200" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
