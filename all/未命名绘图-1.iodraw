@@ -33,8 +33,14 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-38" value="进入选课信息界面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="84.5" y="120" width="117" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-40" target="KwafMszTG7OVBNIyP3LY-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-40" value="显示当前学生所选课程列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="161.5" height="30" as="geometry" />
+          <mxGeometry x="57.25" y="180" width="171.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwafMszTG7OVBNIyP3LY-42" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
