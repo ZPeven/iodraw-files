@@ -8,7 +8,7 @@
           <mxGeometry x="128" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="128" y="357" width="30" height="30" as="geometry" />
+          <mxGeometry x="128" y="297" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KwafMszTG7OVBNIyP3LY-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="143" y="330" as="sourcePoint" />
+            <mxPoint x="143" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-37" target="KwafMszTG7OVBNIyP3LY-38">
@@ -33,20 +33,16 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-38" value="进入管理员管理界面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="72.25" y="120" width="141.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-40" target="KwafMszTG7OVBNIyP3LY-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-40" value="新增或删除管理员" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="57.25" y="180" width="171.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-42" target="KwafMszTG7OVBNIyP3LY-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KwafMszTG7OVBNIyP3LY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KwafMszTG7OVBNIyP3LY-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-42" value="取消选课" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="240" width="117" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-46" value="数据库更新，课程名额释放" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="57.25" y="300" width="171.5" height="30" as="geometry" />
+        <mxCell id="KwafMszTG7OVBNIyP3LY-46" value="数据库更新，返回界面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="57.25" y="240" width="171.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
