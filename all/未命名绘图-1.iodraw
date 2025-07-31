@@ -52,7 +52,7 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-21" value="编辑课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-22" value="新增课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-22" value="删除课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
