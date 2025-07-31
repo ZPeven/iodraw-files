@@ -43,10 +43,10 @@
             <mxPoint x="214.82999999999998" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-15" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-15" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="107" y="300" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="KwafMszTG7OVBNIyP3LY-15" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="KwafMszTG7OVBNIyP3LY-15" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="207" y="380" as="targetPoint" />
           </mxGeometry>
