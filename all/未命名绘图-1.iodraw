@@ -24,7 +24,7 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-4" value="系统显示当前用户个人信息界面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="120" width="218" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-6" value="用户修改信息并提交" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="180" width="172" height="33" as="geometry" />
         </mxCell>
       </root>
