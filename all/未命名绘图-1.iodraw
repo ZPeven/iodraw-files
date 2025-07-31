@@ -39,7 +39,7 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-15" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="107" y="259" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-20" value="新增课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-20" value="新增公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="321" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-21" value="编辑课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
