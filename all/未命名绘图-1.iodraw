@@ -24,7 +24,7 @@
         <mxCell id="KwafMszTG7OVBNIyP3LY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-37" target="KwafMszTG7OVBNIyP3LY-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwafMszTG7OVBNIyP3LY-37" value="学生登录系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KwafMszTG7OVBNIyP3LY-37" value="管理员登录系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="60" width="114" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KwafMszTG7OVBNIyP3LY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KwafMszTG7OVBNIyP3LY-38" target="KwafMszTG7OVBNIyP3LY-40">
